@@ -3,6 +3,6 @@ Program to solve optimized dimensions of rods, bearings, notch radii, deflection
 
 Lines 8-41 are the only lines that you have to touch to get all the values you need/want. Everything is in Imperial units but can calculate for metric units, but the units that are printed will be off when you run the code.
 
-This code is ridiculously long and could have easily been cut into almost half using function. However, for my class they wanted all work coded out and explained through comments.
+This code is ridiculously long and could have easily been cut into almost half using functions. However, for my class they wanted all work coded out and explained through comments.
 
 Lastly if you are running the code on VS Code I added a Jupyter Notebook kernel in the code originally for debugging, but it makes the outputs much more aesthetically pleasing (displays in seperate interactive window on the side) if you choose to run it that way.
